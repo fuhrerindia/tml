@@ -1,6 +1,9 @@
 # tml
 TMINC MARKUP LIBRARY IS BASED ON JS, CAN BE USED AS ALTERNATIVE OF JSX FOR VANILLA JAVASCRIPT AND NON-NODEJS USERS.
-("Read Full Documentation Here")['https://paurush-sinha-d.gitbook.io/tml/']
+
+[Read Documentation](https://paurush-sinha-d.gitbook.io/tml/)
+
+
 ```bash
   cd lib
   git clone https://github.com/sinhapaurush/tml.git
@@ -14,4 +17,4 @@ cd tml && rm readme.md
 cd ..
 ```
 
-(Read Full Documentation Here)['https://paurush-sinha-d.gitbook.io/tml/']
+[Read Documentation](https://paurush-sinha-d.gitbook.io/tml/)
