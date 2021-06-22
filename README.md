@@ -11,5 +11,5 @@ Hit command below to delete Unwanted file.
 
 ```bash
 cd tml && rm readme.md
- cd ..
+cd ..
 ```
