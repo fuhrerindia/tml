@@ -1,4 +1,4 @@
-# tml
+# TML
 TMINC MARKUP LIBRARY IS BASED ON JS, CAN BE USED AS ALTERNATIVE OF JSX FOR VANILLA JAVASCRIPT AND NON-NODEJS USERS.
 
 [Read Documentation](https://paurush-sinha-d.gitbook.io/tml/)
